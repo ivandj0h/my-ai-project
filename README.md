@@ -16,3 +16,6 @@ initialized tailwindcss
 ## Usage
 To run the project
 `npm run dev`
+
+
+`This Project is still in progress`
